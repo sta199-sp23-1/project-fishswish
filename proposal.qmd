@@ -1,0 +1,39 @@
+---
+title: "Project title"
+subtitle: "Proposal"
+format: html
+---
+
+```{r}
+#| label: load-pkgs
+#| message: false
+
+library(tidyverse)
+```
+
+## Data 1
+
+#### Intro and data
+
+
+### Research question
+
+## Data 2
+
+#### Intro and data
+
+
+### Research question
+
+## Data 3
+
+#### Intro and data
+
+### Research question
+
+
+## Glimpses of data
+
+```{r}
+# add code here
+```

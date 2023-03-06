@@ -1,0 +1,9 @@
+---
+title: "About"
+format: html
+---
+
+This project was developed by **\[team name\]** For [STA 199](https://sta199-sp23-1.github.io/) at Duke University. The team is comprised of the following team members.
+
+- Team member 1 ...
+
